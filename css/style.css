@@ -94,7 +94,6 @@ font-size: 15px;
 
 /* SECOND ROW */
 .row-second {
-    height: 60px;
     color: black;
     font-size: 18px;
     background-color: rgb(171, 220, 237);
@@ -120,7 +119,6 @@ font-size: 15px;
  /* THIRD ROW */
 
  .row-third {
-    height: 60px;
     color: black;
     font-size: 18px;
     padding-bottom: 20px;
@@ -144,7 +142,6 @@ font-size: 15px;
  /* LAST ROW */
 
  .row-last {
-    height: 60px;
     color: black;
     font-size: 18px;
     background-color: rgb(171, 220, 237);
@@ -165,4 +162,39 @@ font-size: 15px;
  .row-right { 
      display: inline-block;
      width: 50%;
+ }
+
+ /* FOOTER */
+
+ .footer-text {
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+
+ }
+
+ /* FOTTER AND IMG BOX  */
+
+ .box-one {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+ }
+
+ .box-text {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+ }
+
+ .box-two {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+ }
+
+ .box-text {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
  }
