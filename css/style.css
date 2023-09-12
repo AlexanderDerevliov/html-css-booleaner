@@ -89,7 +89,7 @@ font-size: 15px;
 
 .row-right {   
     display: inline-block;
-    width: 50%;
+    width: 40%;
 }
 
 /* SECOND ROW */
@@ -113,7 +113,7 @@ font-size: 15px;
  
  .row-right { 
      display: inline-block;
-     width: 50%;
+     width: 40%;
  }
 
  /* THIRD ROW */
@@ -136,7 +136,7 @@ font-size: 15px;
  
  .row-right { 
      display: inline-block;
-     width: 50%;
+     width: 40%;
  }
 
  /* LAST ROW */
@@ -161,7 +161,7 @@ font-size: 15px;
  
  .row-right { 
      display: inline-block;
-     width: 50%;
+     width: 40%;
  }
 
  /* FOOTER */
